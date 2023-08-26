@@ -2,6 +2,10 @@
 
 This is a simple drum machine app built using [React](https://reactjs.org/). It allows you to play different drum sounds by clicking on buttons or using keyboard shortcuts.
 
+## Demo
+
+Click this [link](https://drum-machine-two-dun.vercel.app/) to have a feel of the app.
+
 ## Features
 
 - Play drum sounds by clicking on buttons or using keyboard shortcuts
@@ -25,4 +29,4 @@ Sahabia Yakubu
 
 ## Acknowledgments
 
-This project was inspired by the [freeCodeCamp](https://freecodecamp.org/)FreeCodeCamp.org Drum Machine project.
+This project was inspired by the [freeCodeCamp](https://freecodecamp.org/) Drum Machine project.
